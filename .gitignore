@@ -1,4 +1,3 @@
-.DS_Store
-.cvsignore
-Debug
-tmp
+rdpscan
+rdpscan.dSYM
+
